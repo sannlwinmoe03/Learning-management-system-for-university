@@ -1,4 +1,4 @@
 ﻿# learning-management-system-for-university
-Outdoor research
-Research many other projects
-Inspire Top porjects
+\n Outdoor research
+\n Research many other projects
+\n Inspire Top porjects
